@@ -11,8 +11,8 @@ def find_not_repeating_character(string):
     for i in string:
         n = ord(i) - ord("a")
         if alphabet_occurence_array[n] == 1:
-            break
-    return chr(n+ord('a'))
+            return chr(n + ord('a'))
+    return "_"
 
 
 
