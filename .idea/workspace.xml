@@ -62,29 +62,7 @@
       <recent name="$PROJECT_DIR$/week_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.10_linked_dict">
-    <configuration name="06_stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="sparta_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_3/06_stack.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.11_get_absent_student">
     <configuration name="07_get_receive_top_orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sparta_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,13 +151,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="11_get_absent_student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sparta_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_3/11_get_absent_student.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11_get_absent_student" />
         <item itemvalue="Python.10_linked_dict" />
         <item itemvalue="Python.09_dict" />
         <item itemvalue="Python.08_queue" />
         <item itemvalue="Python.07_get_receive_top_orders" />
-        <item itemvalue="Python.06_stack" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +204,7 @@
       <workItem from="1605891085686" duration="246000" />
       <workItem from="1605891383197" duration="700000" />
       <workItem from="1606190574003" duration="6323000" />
-      <workItem from="1606290451940" duration="8323000" />
+      <workItem from="1606290451940" duration="9265000" />
     </task>
     <servers />
   </component>
@@ -236,50 +236,58 @@
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="386" y="255" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1280.721@0.23.1280.721" timestamp="1605891323028" />
-    <state width="1238" height="141" key="GridCell.Tab.0.bottom" timestamp="1606306360110">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="222" key="GridCell.Tab.0.bottom" timestamp="1606308919218">
+      <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state width="1238" height="141" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1606302180840" />
     <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1605504644995" />
     <state width="1238" height="141" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1606306360110" />
-    <state width="1238" height="141" key="GridCell.Tab.0.center" timestamp="1606306360109">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="222" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1606308919218" />
+    <state width="1238" height="222" key="GridCell.Tab.0.center" timestamp="1606308919216">
+      <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state width="1238" height="141" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1606302180838" />
     <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1605504644994" />
     <state width="1238" height="141" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1606306360109" />
-    <state width="1238" height="141" key="GridCell.Tab.0.left" timestamp="1606306360108">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="222" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1606308919216" />
+    <state width="1238" height="222" key="GridCell.Tab.0.left" timestamp="1606308919215">
+      <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state width="1238" height="141" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1606302180837" />
     <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1605504644993" />
     <state width="1238" height="141" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1606306360108" />
-    <state width="1238" height="141" key="GridCell.Tab.0.right" timestamp="1606306360109">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="222" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1606308919215" />
+    <state width="1238" height="222" key="GridCell.Tab.0.right" timestamp="1606308919217">
+      <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state width="1238" height="141" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1606302180838" />
     <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1605504644994" />
     <state width="1238" height="141" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1606306360109" />
-    <state width="1238" height="222" key="GridCell.Tab.1.bottom" timestamp="1606300434047">
-      <screen x="0" y="23" width="1280" height="721" />
+    <state width="1238" height="222" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1606308919217" />
+    <state width="1238" height="222" key="GridCell.Tab.1.bottom" timestamp="1606308919221">
+      <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1606300434047" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.723@0.23.1280.723" timestamp="1605918465337" />
-    <state width="1238" height="222" key="GridCell.Tab.1.center" timestamp="1606300434046">
-      <screen x="0" y="23" width="1280" height="721" />
+    <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1606308919221" />
+    <state width="1238" height="222" key="GridCell.Tab.1.center" timestamp="1606308919219">
+      <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1606300434046" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.723@0.23.1280.723" timestamp="1605918465336" />
-    <state width="1238" height="222" key="GridCell.Tab.1.left" timestamp="1606300434045">
-      <screen x="0" y="23" width="1280" height="721" />
+    <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1606308919219" />
+    <state width="1238" height="222" key="GridCell.Tab.1.left" timestamp="1606308919218">
+      <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1606300434045" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.723@0.23.1280.723" timestamp="1605918465336" />
-    <state width="1238" height="222" key="GridCell.Tab.1.right" timestamp="1606300434046">
-      <screen x="0" y="23" width="1280" height="721" />
+    <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1606308919218" />
+    <state width="1238" height="222" key="GridCell.Tab.1.right" timestamp="1606308919220">
+      <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state width="1238" height="222" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1606300434046" />
     <state width="1238" height="222" key="GridCell.Tab.1.right/0.23.1280.723@0.23.1280.723" timestamp="1605918465337" />
+    <state width="1238" height="222" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1606308919220" />
     <state x="215" y="184" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605891309433">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
@@ -340,6 +348,7 @@
     <SUITE FILE_PATH="coverage/sparta_algorithm$02_is_available_to_order.coverage" NAME="02_is_available_to_order Coverage Results" MODIFIED="1605858252512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$04_is_number_exist.coverage" NAME="04_is_number_exist Coverage Results" MODIFIED="1604993723652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$00_study_class.coverage" NAME="00_study_class Coverage Results" MODIFIED="1605498928663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$11_get_absent_student.coverage" NAME="11_get_absent_student Coverage Results" MODIFIED="1606308486653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$06_stack.coverage" NAME="06_stack Coverage Results" MODIFIED="1606292914698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$09_factorial.coverage" NAME="09_factorial Coverage Results" MODIFIED="1605786503626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$03.coverage" NAME="03 Coverage Results" MODIFIED="1605891248157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework_tutor's answer" />
