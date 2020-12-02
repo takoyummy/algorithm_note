@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f39b4e73-1158-4503-814e-3146b83f492a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_3/homework/02_is_correct_parenthesis.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_3/homework/02_is_correct_parenthesis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_3/homework/03_get_melon_best_album.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_3/homework/03_get_melon_best_album.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +62,51 @@
       <recent name="$PROJECT_DIR$/week_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03_get_melon_best_album">
+  <component name="RunManager" selected="Python.01_02_delete_max_heap">
+    <configuration name="01_01_insert_max_heap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sparta_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/01_01_insert_max_heap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01_02_delete_max_heap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sparta_algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/01_02_delete_max_heap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="01_get_max_discounted_price" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sparta_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,57 +173,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10_linked_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="sparta_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_3/10_linked_dict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="11_get_absent_student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="sparta_algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_3/11_get_absent_student.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_02_delete_max_heap" />
+        <item itemvalue="Python.01_01_insert_max_heap" />
         <item itemvalue="Python.03_get_melon_best_album" />
         <item itemvalue="Python.02_is_correct_parenthesis" />
         <item itemvalue="Python.01_get_max_discounted_price" />
-        <item itemvalue="Python.11_get_absent_student" />
-        <item itemvalue="Python.10_linked_dict" />
       </list>
     </recent_temporary>
   </component>
@@ -209,6 +207,7 @@
       <workItem from="1606290451940" duration="9265000" />
       <workItem from="1606464272772" duration="8490000" />
       <workItem from="1606544752123" duration="4344000" />
+      <workItem from="1606901102146" duration="3285000" />
     </task>
     <servers />
   </component>
@@ -240,10 +239,10 @@
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="386" y="255" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1280.721@0.23.1280.721" timestamp="1605891323028" />
-    <state width="1238" height="82" key="GridCell.Tab.0.bottom" timestamp="1606566544735">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="81" key="GridCell.Tab.0.bottom" timestamp="1606911015348">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="141" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1606302180840" />
+    <state width="1238" height="81" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1606911015348" />
     <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1605504644995" />
     <state width="1238" height="82" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1606566544735" />
     <state width="1238" height="222" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1606558601736" />
@@ -251,10 +250,10 @@
     <state width="1238" height="141" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1606490107567" />
     <state width="1238" height="83" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1606495888077" />
     <state width="1238" height="222" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1606494149450" />
-    <state width="1238" height="82" key="GridCell.Tab.0.center" timestamp="1606566544733">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="81" key="GridCell.Tab.0.center" timestamp="1606911015347">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="141" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1606302180838" />
+    <state width="1238" height="81" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1606911015347" />
     <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1605504644994" />
     <state width="1238" height="82" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1606566544733" />
     <state width="1238" height="222" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1606558601732" />
@@ -262,10 +261,10 @@
     <state width="1238" height="141" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1606490107566" />
     <state width="1238" height="83" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1606495888076" />
     <state width="1238" height="222" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1606494149443" />
-    <state width="1238" height="82" key="GridCell.Tab.0.left" timestamp="1606566544732">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="81" key="GridCell.Tab.0.left" timestamp="1606911015346">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="141" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1606302180837" />
+    <state width="1238" height="81" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1606911015346" />
     <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1605504644993" />
     <state width="1238" height="82" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1606566544732" />
     <state width="1238" height="222" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1606558601731" />
@@ -273,10 +272,10 @@
     <state width="1238" height="141" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1606490107565" />
     <state width="1238" height="83" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1606495888075" />
     <state width="1238" height="222" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1606494149436" />
-    <state width="1238" height="82" key="GridCell.Tab.0.right" timestamp="1606566544734">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="81" key="GridCell.Tab.0.right" timestamp="1606911015347">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="141" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1606302180838" />
+    <state width="1238" height="81" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1606911015347" />
     <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1605504644994" />
     <state width="1238" height="82" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1606566544734" />
     <state width="1238" height="222" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1606558601734" />
@@ -284,40 +283,40 @@
     <state width="1238" height="141" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1606490107566" />
     <state width="1238" height="83" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1606495888076" />
     <state width="1238" height="222" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1606494149446" />
-    <state width="1238" height="221" key="GridCell.Tab.1.bottom" timestamp="1606566544724">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom" timestamp="1606902683623">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1606300434047" />
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1606902683623" />
     <state width="1238" height="221" key="GridCell.Tab.1.bottom/0.23.1280.723@0.23.1280.723" timestamp="1606566544724" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1606558602538" />
     <state width="1238" height="223" key="GridCell.Tab.1.bottom/0.23.1280.726@0.23.1280.726" timestamp="1606559958170" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1606490049457" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.729@0.23.1280.729" timestamp="1606495888066" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.732@0.23.1280.732" timestamp="1606494151128" />
-    <state width="1238" height="221" key="GridCell.Tab.1.center" timestamp="1606566544723">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="220" key="GridCell.Tab.1.center" timestamp="1606902683622">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1606300434046" />
+    <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1606902683622" />
     <state width="1238" height="221" key="GridCell.Tab.1.center/0.23.1280.723@0.23.1280.723" timestamp="1606566544723" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1606558602535" />
     <state width="1238" height="223" key="GridCell.Tab.1.center/0.23.1280.726@0.23.1280.726" timestamp="1606559958169" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1606490049456" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.729@0.23.1280.729" timestamp="1606495888065" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.732@0.23.1280.732" timestamp="1606494151126" />
-    <state width="1238" height="221" key="GridCell.Tab.1.left" timestamp="1606566544723">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="220" key="GridCell.Tab.1.left" timestamp="1606902683622">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1606300434045" />
+    <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1606902683622" />
     <state width="1238" height="221" key="GridCell.Tab.1.left/0.23.1280.723@0.23.1280.723" timestamp="1606566544723" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1606558602534" />
     <state width="1238" height="223" key="GridCell.Tab.1.left/0.23.1280.726@0.23.1280.726" timestamp="1606559958168" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1606490049456" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.729@0.23.1280.729" timestamp="1606495888065" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.732@0.23.1280.732" timestamp="1606494151126" />
-    <state width="1238" height="221" key="GridCell.Tab.1.right" timestamp="1606566544724">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="220" key="GridCell.Tab.1.right" timestamp="1606902683623">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="222" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1606300434046" />
+    <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1606902683623" />
     <state width="1238" height="221" key="GridCell.Tab.1.right/0.23.1280.723@0.23.1280.723" timestamp="1606566544724" />
     <state width="1238" height="222" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1606558602536" />
     <state width="1238" height="223" key="GridCell.Tab.1.right/0.23.1280.726@0.23.1280.726" timestamp="1606559958170" />
@@ -328,6 +327,10 @@
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="215" y="184" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1280.721@0.23.1280.721" timestamp="1605891309433" />
+    <state x="305" y="68" width="670" height="676" key="search.everywhere.popup" timestamp="1606902065152">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="305" y="68" width="670" height="676" key="search.everywhere.popup/0.23.1280.721@0.23.1280.721" timestamp="1606902065152" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -371,6 +374,11 @@
           <url>file://$PROJECT_DIR$/week_3/homework/03_get_melon_best_album.py</url>
           <line>19</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week_4/01_01_insert_max_heap.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -417,6 +425,8 @@
     <SUITE FILE_PATH="coverage/sparta_algorithm$01_print_all_linked_list.coverage" NAME="01_print_all_linked_list Coverage Results" MODIFIED="1605712420941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$01_get_max_discounted_price.coverage" NAME="01_get_max_discounted_price Coverage Results" MODIFIED="1606490107552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3/homework" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$02_is_correct_parenthesis.coverage" NAME="02_is_correct_parenthesis Coverage Results" MODIFIED="1606491479273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_01_insert_max_heap.coverage" NAME="01_01_insert_max_heap Coverage Results" MODIFIED="1606902806639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_02_delete_max_heap.coverage" NAME="01_02_delete_max_heap Coverage Results" MODIFIED="1606911015332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$03_insertion_sort.coverage" NAME="03_insertion_sort Coverage Results" MODIFIED="1606206860354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$10_linked_dict.coverage" NAME="10_linked_dict Coverage Results" MODIFIED="1606306360087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$02_get_node_linked_list_pu.coverage" NAME="02_get_node_linked_list.pu Coverage Results" MODIFIED="1605751735732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
