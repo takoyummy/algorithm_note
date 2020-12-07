@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f39b4e73-1158-4503-814e-3146b83f492a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_4/homework/01_get_minimum_count_of_oversea_supply.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_4/homework/01_get_minimum_count_of_oversea_supply.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +63,8 @@
       <recent name="$PROJECT_DIR$/week_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.06_fibo_dynamic_programming">
-    <configuration name="02_dfs_recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01_get_minimum_count_of_oversea_supply">
+    <configuration name="01_get_minimum_count_of_oversea_supply" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sparta_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,12 +72,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/02_dfs_recursion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/homework/01_get_minimum_count_of_oversea_supply.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_get_minimum_count_of_oversea_supply" />
         <item itemvalue="Python.06_fibo_dynamic_programming" />
         <item itemvalue="Python.05_fibo_recursion" />
         <item itemvalue="Python.04_bfs_queue" />
         <item itemvalue="Python.03_dfs_stack" />
-        <item itemvalue="Python.02_dfs_recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +210,8 @@
       <workItem from="1606544752123" duration="4344000" />
       <workItem from="1606901102146" duration="3655000" />
       <workItem from="1607073847516" duration="6455000" />
-      <workItem from="1607244788374" duration="1198000" />
+      <workItem from="1607244788374" duration="3201000" />
+      <workItem from="1607322005548" duration="2518000" />
     </task>
     <servers />
   </component>
@@ -241,10 +243,10 @@
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="386" y="255" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1280.721@0.23.1280.721" timestamp="1605891323028" />
-    <state width="1238" height="220" key="GridCell.Tab.0.bottom" timestamp="1607169965573">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom" timestamp="1607329966860">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="81" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1606912639645" />
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1607329966860" />
     <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1605504644995" />
     <state width="1238" height="220" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1607169965573" />
     <state width="1238" height="81" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1607168539248" />
@@ -252,10 +254,10 @@
     <state width="1238" height="141" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1606490107567" />
     <state width="1238" height="83" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1606495888077" />
     <state width="1238" height="222" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1606494149450" />
-    <state width="1238" height="220" key="GridCell.Tab.0.center" timestamp="1607169965571">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="220" key="GridCell.Tab.0.center" timestamp="1607329966858">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="81" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1606912639644" />
+    <state width="1238" height="220" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1607329966858" />
     <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1605504644994" />
     <state width="1238" height="220" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1607169965571" />
     <state width="1238" height="81" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1607168539247" />
@@ -263,10 +265,10 @@
     <state width="1238" height="141" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1606490107566" />
     <state width="1238" height="83" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1606495888076" />
     <state width="1238" height="222" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1606494149443" />
-    <state width="1238" height="220" key="GridCell.Tab.0.left" timestamp="1607169965571">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="220" key="GridCell.Tab.0.left" timestamp="1607329966856">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="81" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1606912639643" />
+    <state width="1238" height="220" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1607329966856" />
     <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1605504644993" />
     <state width="1238" height="220" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1607169965571" />
     <state width="1238" height="81" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1607168539246" />
@@ -274,10 +276,10 @@
     <state width="1238" height="141" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1606490107565" />
     <state width="1238" height="83" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1606495888075" />
     <state width="1238" height="222" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1606494149436" />
-    <state width="1238" height="220" key="GridCell.Tab.0.right" timestamp="1607169965572">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="220" key="GridCell.Tab.0.right" timestamp="1607329966859">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="81" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1606912639645" />
+    <state width="1238" height="220" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1607329966859" />
     <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1605504644994" />
     <state width="1238" height="220" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1607169965572" />
     <state width="1238" height="81" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1607168539248" />
@@ -285,40 +287,40 @@
     <state width="1238" height="141" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1606490107566" />
     <state width="1238" height="83" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1606495888076" />
     <state width="1238" height="222" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1606494149446" />
-    <state width="1238" height="220" key="GridCell.Tab.1.bottom" timestamp="1607169965575">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom" timestamp="1607329967534">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1606912639629" />
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1607329967534" />
     <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.723@0.23.1280.723" timestamp="1607169965575" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1606558602538" />
     <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.726@0.23.1280.726" timestamp="1607159947818" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1606490049457" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.729@0.23.1280.729" timestamp="1606495888066" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.732@0.23.1280.732" timestamp="1606494151128" />
-    <state width="1238" height="220" key="GridCell.Tab.1.center" timestamp="1607169965574">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="220" key="GridCell.Tab.1.center" timestamp="1607329967531">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1606912639627" />
+    <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1607329967531" />
     <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.723@0.23.1280.723" timestamp="1607169965574" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1606558602535" />
     <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.726@0.23.1280.726" timestamp="1607159947816" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1606490049456" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.729@0.23.1280.729" timestamp="1606495888065" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.732@0.23.1280.732" timestamp="1606494151126" />
-    <state width="1238" height="220" key="GridCell.Tab.1.left" timestamp="1607169965574">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="220" key="GridCell.Tab.1.left" timestamp="1607329967529">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1606912639627" />
+    <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1607329967529" />
     <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.723@0.23.1280.723" timestamp="1607169965574" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1606558602534" />
     <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.726@0.23.1280.726" timestamp="1607159947816" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1606490049456" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.729@0.23.1280.729" timestamp="1606495888065" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.732@0.23.1280.732" timestamp="1606494151126" />
-    <state width="1238" height="220" key="GridCell.Tab.1.right" timestamp="1607169965574">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state width="1238" height="220" key="GridCell.Tab.1.right" timestamp="1607329967532">
+      <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1606912639628" />
+    <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1607329967532" />
     <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.723@0.23.1280.723" timestamp="1607169965574" />
     <state width="1238" height="222" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1606558602536" />
     <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.726@0.23.1280.726" timestamp="1607159947817" />
@@ -402,6 +404,11 @@
           <line>3</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week_4/homework/01_get_minimum_count_of_oversea_supply.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint enabled="true" type="django-exception">
@@ -417,6 +424,7 @@
     <SUITE FILE_PATH="coverage/sparta_algorithm$03_dfs_stack.coverage" NAME="03_dfs_stack Coverage Results" MODIFIED="1607082723283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$06_find_not_repeating_character.coverage" NAME="06_find_not_repeating_character Coverage Results" MODIFIED="1605099550306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$02_selection_sort.coverage" NAME="02_selection_sort Coverage Results" MODIFIED="1606202691507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_get_minimum_count_of_oversea_supply.coverage" NAME="01_get_minimum_count_of_oversea_supply Coverage Results" MODIFIED="1607329966567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4/homework" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$02_find_count_to_turn_out_to_all_zero_or_all_one.coverage" NAME="02_find_count_to_turn_out_to_all_zero_or_all_one Coverage Results" MODIFIED="1605252697056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1/homework" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$03_find_max_occured_alphabet.coverage" NAME="03_find_max_occured_alphabet Coverage Results" MODIFIED="1604993608571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$02_isavailable_to_order.coverage" NAME="02_isavailable_to_order Coverage Results" MODIFIED="1605890517024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework" />
