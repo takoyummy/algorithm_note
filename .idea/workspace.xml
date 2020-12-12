@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f39b4e73-1158-4503-814e-3146b83f492a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week_4/homework/01_get_minimum_count_of_oversea_supply.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_4/homework/01_get_minimum_count_of_oversea_supply.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_4/homework/02_get_count_of_departments_cleaned_by_robot_vaccum.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_4/homework/02_get_count_of_departments_cleaned_by_robot_vaccum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week_4/homework/03_get_all_ways_of_theater_seat.py" beforeDir="false" afterPath="$PROJECT_DIR$/week_4/homework/03_get_all_ways_of_theater_seat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <recent name="$PROJECT_DIR$/week_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_get_minimum_count_of_oversea_supply">
+  <component name="RunManager" selected="Python.02_string_compression">
     <configuration name="01_get_minimum_count_of_oversea_supply" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sparta_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_dfs_stack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_get_count_of_departments_cleaned_by_robot_vaccum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sparta_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,12 +95,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/03_dfs_stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/homework/02_get_count_of_departments_cleaned_by_robot_vaccum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_bfs_queue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_string_compression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sparta_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,12 +117,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/04_bfs_queue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_5/02_string_compression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_fibo_recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_get_all_ways_of_theater_seat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sparta_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,12 +139,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4/homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/05_fibo_recursion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/homework/03_get_all_ways_of_theater_seat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_fibo_dynamic_programming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="_pydev_execfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="sparta_algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,12 +161,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week_4" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/_pydev_imps" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week_4/06_fibo_dynamic_programming.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/_pydev_imps/_pydev_execfile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02_string_compression" />
+        <item itemvalue="Python.03_get_all_ways_of_theater_seat" />
+        <item itemvalue="Python.02_get_count_of_departments_cleaned_by_robot_vaccum" />
+        <item itemvalue="Python._pydev_execfile" />
         <item itemvalue="Python.01_get_minimum_count_of_oversea_supply" />
-        <item itemvalue="Python.06_fibo_dynamic_programming" />
-        <item itemvalue="Python.05_fibo_recursion" />
-        <item itemvalue="Python.04_bfs_queue" />
-        <item itemvalue="Python.03_dfs_stack" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +213,9 @@
       <workItem from="1607073847516" duration="6455000" />
       <workItem from="1607244788374" duration="3201000" />
       <workItem from="1607322005548" duration="2518000" />
+      <workItem from="1607350381821" duration="1140000" />
+      <workItem from="1607607614131" duration="544000" />
+      <workItem from="1607745911607" duration="2501000" />
     </task>
     <servers />
   </component>
@@ -243,10 +247,10 @@
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="386" y="255" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1280.721@0.23.1280.721" timestamp="1605891323028" />
-    <state width="1238" height="220" key="GridCell.Tab.0.bottom" timestamp="1607329966860">
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom" timestamp="1607747881525">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="220" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1607329966860" />
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1607747881525" />
     <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1605504644995" />
     <state width="1238" height="220" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1607169965573" />
     <state width="1238" height="81" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1607168539248" />
@@ -254,10 +258,10 @@
     <state width="1238" height="141" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1606490107567" />
     <state width="1238" height="83" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1606495888077" />
     <state width="1238" height="222" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1606494149450" />
-    <state width="1238" height="220" key="GridCell.Tab.0.center" timestamp="1607329966858">
+    <state width="1238" height="220" key="GridCell.Tab.0.center" timestamp="1607747881524">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="220" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1607329966858" />
+    <state width="1238" height="220" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1607747881524" />
     <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1605504644994" />
     <state width="1238" height="220" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1607169965571" />
     <state width="1238" height="81" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1607168539247" />
@@ -265,10 +269,10 @@
     <state width="1238" height="141" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1606490107566" />
     <state width="1238" height="83" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1606495888076" />
     <state width="1238" height="222" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1606494149443" />
-    <state width="1238" height="220" key="GridCell.Tab.0.left" timestamp="1607329966856">
+    <state width="1238" height="220" key="GridCell.Tab.0.left" timestamp="1607747881522">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="220" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1607329966856" />
+    <state width="1238" height="220" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1607747881522" />
     <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1605504644993" />
     <state width="1238" height="220" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1607169965571" />
     <state width="1238" height="81" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1607168539246" />
@@ -276,10 +280,10 @@
     <state width="1238" height="141" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1606490107565" />
     <state width="1238" height="83" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1606495888075" />
     <state width="1238" height="222" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1606494149436" />
-    <state width="1238" height="220" key="GridCell.Tab.0.right" timestamp="1607329966859">
+    <state width="1238" height="220" key="GridCell.Tab.0.right" timestamp="1607747881524">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="220" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1607329966859" />
+    <state width="1238" height="220" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1607747881524" />
     <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1605504644994" />
     <state width="1238" height="220" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1607169965572" />
     <state width="1238" height="81" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1607168539248" />
@@ -287,40 +291,40 @@
     <state width="1238" height="141" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1606490107566" />
     <state width="1238" height="83" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1606495888076" />
     <state width="1238" height="222" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1606494149446" />
-    <state width="1238" height="220" key="GridCell.Tab.1.bottom" timestamp="1607329967534">
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom" timestamp="1607747882252">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1607329967534" />
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.721@0.23.1280.721" timestamp="1607747882252" />
     <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.723@0.23.1280.723" timestamp="1607169965575" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1606558602538" />
     <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.726@0.23.1280.726" timestamp="1607159947818" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.728@0.23.1280.728" timestamp="1606490049457" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.729@0.23.1280.729" timestamp="1606495888066" />
     <state width="1238" height="222" key="GridCell.Tab.1.bottom/0.23.1280.732@0.23.1280.732" timestamp="1606494151128" />
-    <state width="1238" height="220" key="GridCell.Tab.1.center" timestamp="1607329967531">
+    <state width="1238" height="220" key="GridCell.Tab.1.center" timestamp="1607747882250">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1607329967531" />
+    <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.721@0.23.1280.721" timestamp="1607747882250" />
     <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.723@0.23.1280.723" timestamp="1607169965574" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1606558602535" />
     <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.726@0.23.1280.726" timestamp="1607159947816" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.728@0.23.1280.728" timestamp="1606490049456" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.729@0.23.1280.729" timestamp="1606495888065" />
     <state width="1238" height="222" key="GridCell.Tab.1.center/0.23.1280.732@0.23.1280.732" timestamp="1606494151126" />
-    <state width="1238" height="220" key="GridCell.Tab.1.left" timestamp="1607329967529">
+    <state width="1238" height="220" key="GridCell.Tab.1.left" timestamp="1607747882249">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1607329967529" />
+    <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.721@0.23.1280.721" timestamp="1607747882249" />
     <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.723@0.23.1280.723" timestamp="1607169965574" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1606558602534" />
     <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.726@0.23.1280.726" timestamp="1607159947816" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.728@0.23.1280.728" timestamp="1606490049456" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.729@0.23.1280.729" timestamp="1606495888065" />
     <state width="1238" height="222" key="GridCell.Tab.1.left/0.23.1280.732@0.23.1280.732" timestamp="1606494151126" />
-    <state width="1238" height="220" key="GridCell.Tab.1.right" timestamp="1607329967532">
+    <state width="1238" height="220" key="GridCell.Tab.1.right" timestamp="1607747882251">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
-    <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1607329967532" />
+    <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.721@0.23.1280.721" timestamp="1607747882251" />
     <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.723@0.23.1280.723" timestamp="1607169965574" />
     <state width="1238" height="222" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1606558602536" />
     <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.726@0.23.1280.726" timestamp="1607159947817" />
@@ -409,6 +413,11 @@
           <line>8</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week_5/02_string_compression.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint enabled="true" type="django-exception">
@@ -418,6 +427,28 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sparta_algorithm$04_merge.coverage" NAME="04_merge Coverage Results" MODIFIED="1606210306749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$04_bfs_queue.coverage" NAME="04_bfs_queue Coverage Results" MODIFIED="1607159029803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_find_alphabet_occurence_array.coverage" NAME="02_find_alphabet_occurence_array Coverage Results" MODIFIED="1604984995396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$06_fibo_dynamic_programming.coverage" NAME="06_fibo_dynamic_programming Coverage Results" MODIFIED="1607168539219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$06_stack.coverage" NAME="06_stack Coverage Results" MODIFIED="1606292914698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_get_melon_best_album.coverage" NAME="03_get_melon_best_album Coverage Results" MODIFIED="1606566304018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03.coverage" NAME="03 Coverage Results" MODIFIED="1605891248157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework_tutor's answer" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_add_node_linked_list.coverage" NAME="03_add_node_linked_list Coverage Results" MODIFIED="1605769482453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$05_get_linked_list_sum.coverage" NAME="05_get_linked_list_sum Coverage Results" MODIFIED="1605772587794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$09_dict.coverage" NAME="09_dict Coverage Results" MODIFIED="1606302180823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$05_merget_sort.coverage" NAME="05_merget_sort Coverage Results" MODIFIED="1606213541416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$05_fibo_recursion.coverage" NAME="05_fibo_recursion Coverage Results" MODIFIED="1607160546207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$11_01_is_palindrome.coverage" NAME="11_01_is_palindrome Coverage Results" MODIFIED="1605788272405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$00_hello.coverage" NAME="00_hello Coverage Results" MODIFIED="1604890784733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$08_queue.coverage" NAME="08_queue Coverage Results" MODIFIED="1606300434023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_get_max_discounted_price.coverage" NAME="01_get_max_discounted_price Coverage Results" MODIFIED="1606490107552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_is_correct_parenthesis.coverage" NAME="02_is_correct_parenthesis Coverage Results" MODIFIED="1606491479273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3/homework" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$01_01_insert_max_heap.coverage" NAME="01_01_insert_max_heap Coverage Results" MODIFIED="1606902806639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_insertion_sort.coverage" NAME="03_insertion_sort Coverage Results" MODIFIED="1606206860354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_get_node_linked_list_pu.coverage" NAME="02_get_node_linked_list.pu Coverage Results" MODIFIED="1605751735732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$10_01_is_palindrome.coverage" NAME="10_01_is_palindrome Coverage Results" MODIFIED="1605787245831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$03_get_all_ways_of_theater_seat.coverage" NAME="03_get_all_ways_of_theater_seat Coverage Results" MODIFIED="1607445081014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4/homework" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$01_02_find_max_num.coverage" NAME="01_02_find_max_num Coverage Results" MODIFIED="1604893431765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$03_get_count_of_ways_to_target_by_doing_plus_or_minus.coverage" NAME="03_get_count_of_ways_to_target_by_doing_plus_or_minus Coverage Results" MODIFIED="1605891643420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$05_find_max_plus_or_multiply.coverage" NAME="05_find_max_plus_or_multiply Coverage Results" MODIFIED="1604996402202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
@@ -429,42 +460,24 @@
     <SUITE FILE_PATH="coverage/sparta_algorithm$03_find_max_occured_alphabet.coverage" NAME="03_find_max_occured_alphabet Coverage Results" MODIFIED="1604993608571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$02_isavailable_to_order.coverage" NAME="02_isavailable_to_order Coverage Results" MODIFIED="1605890517024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$07_get_receive_top_orders.coverage" NAME="07_get_receive_top_orders Coverage Results" MODIFIED="1606296791305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$04_merge.coverage" NAME="04_merge Coverage Results" MODIFIED="1606210306749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$08_count_down.coverage" NAME="08_count_down Coverage Results" MODIFIED="1605786125766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$01_find_prime_list_under_number.coverage" NAME="01_find_prime_list_under_number Coverage Results" MODIFIED="1605239863118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1/homework" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$02_dfs_recursion.coverage" NAME="02_dfs_recursion Coverage Results" MODIFIED="1607074969637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$06_is_existing_target_number_binary.coverage" NAME="06_is_existing_target_number_binary Coverage Results" MODIFIED="1605779590708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$04_bfs_queue.coverage" NAME="04_bfs_queue Coverage Results" MODIFIED="1607159029803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$07_is_existing_target_number_binary.coverage" NAME="07_is_existing_target_number_binary Coverage Results" MODIFIED="1605785525433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$02_find_alphabet_occurence_array.coverage" NAME="02_find_alphabet_occurence_array Coverage Results" MODIFIED="1604984995396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$02_is_available_to_order.coverage" NAME="02_is_available_to_order Coverage Results" MODIFIED="1605858252512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$04_is_number_exist.coverage" NAME="04_is_number_exist Coverage Results" MODIFIED="1604993723652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$06_fibo_dynamic_programming.coverage" NAME="06_fibo_dynamic_programming Coverage Results" MODIFIED="1607168539219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$00_study_class.coverage" NAME="00_study_class Coverage Results" MODIFIED="1605498928663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$11_get_absent_student.coverage" NAME="11_get_absent_student Coverage Results" MODIFIED="1606308486653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$06_stack.coverage" NAME="06_stack Coverage Results" MODIFIED="1606292914698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$03_get_melon_best_album.coverage" NAME="03_get_melon_best_album Coverage Results" MODIFIED="1606566304018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3/homework" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$09_factorial.coverage" NAME="09_factorial Coverage Results" MODIFIED="1605786503626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$03.coverage" NAME="03 Coverage Results" MODIFIED="1605891248157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework_tutor's answer" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$03_add_node_linked_list.coverage" NAME="03_add_node_linked_list Coverage Results" MODIFIED="1605769482453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$05_get_linked_list_sum.coverage" NAME="05_get_linked_list_sum Coverage Results" MODIFIED="1605772587794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$_pydev_execfile.coverage" NAME="_pydev_execfile Coverage Results" MODIFIED="1607445053338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/plugins/python/helpers/pydev/_pydev_imps" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$01_get_kth_node_from_last.coverage" NAME="01_get_kth_node_from_last Coverage Results" MODIFIED="1605856593879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2/homework" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$09_dict.coverage" NAME="09_dict Coverage Results" MODIFIED="1606302180823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_get_count_of_departments_cleaned_by_robot_vaccum.coverage" NAME="02_get_count_of_departments_cleaned_by_robot_vaccum Coverage Results" MODIFIED="1607445076131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4/homework" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$01_bubble_sort.coverage" NAME="01_bubble_sort Coverage Results" MODIFIED="1606199229526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$05_merget_sort.coverage" NAME="05_merget_sort Coverage Results" MODIFIED="1606213541416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$05_fibo_recursion.coverage" NAME="05_fibo_recursion Coverage Results" MODIFIED="1607160546207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$11_01_is_palindrome.coverage" NAME="11_01_is_palindrome Coverage Results" MODIFIED="1605788272405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$01_01_find_max_num.coverage" NAME="01_01_find_max_num Coverage Results" MODIFIED="1604893166126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$00_hello.coverage" NAME="00_hello Coverage Results" MODIFIED="1604890784733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_1" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$08_queue.coverage" NAME="08_queue Coverage Results" MODIFIED="1606300434023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
+    <SUITE FILE_PATH="coverage/sparta_algorithm$02_string_compression.coverage" NAME="02_string_compression Coverage Results" MODIFIED="1607747880248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_5" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$01_print_all_linked_list.coverage" NAME="01_print_all_linked_list Coverage Results" MODIFIED="1605712420941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$01_get_max_discounted_price.coverage" NAME="01_get_max_discounted_price Coverage Results" MODIFIED="1606490107552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3/homework" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$02_is_correct_parenthesis.coverage" NAME="02_is_correct_parenthesis Coverage Results" MODIFIED="1606491479273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3/homework" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$01_01_insert_max_heap.coverage" NAME="01_01_insert_max_heap Coverage Results" MODIFIED="1606902806639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$01_02_delete_max_heap.coverage" NAME="01_02_delete_max_heap Coverage Results" MODIFIED="1606911015332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_4" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$03_insertion_sort.coverage" NAME="03_insertion_sort Coverage Results" MODIFIED="1606206860354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
     <SUITE FILE_PATH="coverage/sparta_algorithm$10_linked_dict.coverage" NAME="10_linked_dict Coverage Results" MODIFIED="1606306360087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_3" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$02_get_node_linked_list_pu.coverage" NAME="02_get_node_linked_list.pu Coverage Results" MODIFIED="1605751735732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
-    <SUITE FILE_PATH="coverage/sparta_algorithm$10_01_is_palindrome.coverage" NAME="10_01_is_palindrome Coverage Results" MODIFIED="1605787245831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week_2" />
   </component>
 </project>
